@@ -1,0 +1,71 @@
+<!-- src/app/employee/employee.component.html -->
+<div class="container">
+    <h1>Employee Management</h1>
+  
+    <!-- Create or Update Employee Form -->
+    <form (ngSubmit)="onSubmit()">
+      <div class="form-group">
+        <label for="firstName">First Name</label>
+        <input [(ngModel)]="employee.firstName" name="firstName" class="form-control" id="firstName" required />
+      </div>
+  
+      <div class="form-group">
+        <label for="lastName">Last Name</label>
+        <input [(ngModel)]="employee.lastName" name="lastName" class="form-control" id="lastName" required />
+      </div>
+  
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input [(ngModel)]="employee.email" name="email" class="form-control" id="email" required />
+      </div>
+  
+      <div class="form-group">
+        <label for="department">Department</label>
+        <input [(ngModel)]="employee.department" name="department" class="form-control" id="department" required />
+      </div>
+  
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input [(ngModel)]="employee.password" name="password" type="password" class="form-control" id="password" required />
+      </div>
+  
+      <div class="form-group">
+        <label for="role">Role</label>
+        <input [(ngModel)]="employee.role" name="role" class="form-control" id="role" required />
+      </div>
+  
+      <button type="submit" class="btn btn-primary">{{ isEditMode ? 'Update' : 'Create' }} Employee</button>
+      <button *ngIf="isEditMode" type="button" (click)="onCancel()" class="btn btn-secondary">Cancel</button>
+    </form>
+  
+    <hr />
+  
+    <!-- List of Employees -->
+    <h2>Employee List</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Email</th>
+          <th>Department</th>
+          <th>Role</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let emp of employees">
+          <td>{{ emp.firstName }}</td>
+          <td>{{ emp.lastName }}</td>
+          <td>{{ emp.email }}</td>
+          <td>{{ emp.department }}</td>
+          <td>{{ emp.role }}</td>
+          <td>
+            <button (click)="onEdit(emp)" class="btn btn-info">Edit</button>
+            <button (click)="onDelete(emp.id)" class="btn btn-danger">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
