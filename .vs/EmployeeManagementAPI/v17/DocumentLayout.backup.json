@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\amp52\\music\\pratik\\employeemanagementapi\\employeemanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\amp52\\music\\pratik\\employeemanagementapi\\employeemanagementapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\amp52\\music\\pratik\\employeemanagementapi\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\amp52\\music\\pratik\\employeemanagementapi\\employeemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\amp52\\music\\pratik\\employeemanagementapi\\employeemanagementapi\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\amp52\\music\\pratik\\employeemanagementapi\\employeemanagementapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\amp52\\music\\pratik\\employeemanagementapi\\employeemanagementapi\\employeemanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\employeemanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\amp52\\music\\pratik\\employeemanagementapi\\employeemanagementapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\amp52\\music\\pratik\\employeemanagementapi\\employeemanagementapi\\employeemanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\employeemanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\amp52\\music\\pratik\\employeemanagementapi\\employeemanagementapi\\migrations\\20241005103837_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A97394-4BC3-4753-8262-D76D55E93738}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\migrations\\20241005103837_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T13:51:33.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:13:36.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Model\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:30:46.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Model\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Model\\LoginModel.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Model\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:17:36.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:32:16.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:18:49.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:15:22.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeManagementAPI.http",
+              "DocumentMoniker": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.http",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\EmployeeManagementAPI.http",
+              "ToolTip": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.http",
+              "RelativeToolTip": "EmployeeManagementAPI\\EmployeeManagementAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-06T13:15:29.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeManagementAPI",
+              "DocumentMoniker": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+              "RelativeToolTip": "EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T12:59:10.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241005103837_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\20241005103837_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Migrations\\20241005103837_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\amp52\\Music\\Pratik\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\20241005103837_InitialCreate.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Migrations\\20241005103837_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:38:38.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

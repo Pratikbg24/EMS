@@ -1,0 +1,10 @@
+@EmployeeManagementAPI_HostAddress = http://localhost:7225
+
+GET {{EmployeeManagementAPI_HostAddress}}/employee/
+Accept: application/json
+
+###
+POST {{EmployeeManagementAPI_HostAddress}}/auth/
+Accept: application/json
+
+###
